@@ -1,6 +1,6 @@
 {
-  "name": "siarkowodor/h2s-path-manager",
-  "description": "description",
+  "name": "h2sf/path-manager",
+  "description": "H2S Framework system paths amstractions library",
   "minimum-stability": "stable",
   "license": "proprietary",
   "version": "0.1.0",
