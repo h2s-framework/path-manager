@@ -1,0 +1,4 @@
+id: H2sCore
+
+types:
+  \Siarko\Paths\Api\Provider\Pool\PathProviderPoolInterface: \Siarko\Paths\Provider\Pool\PathProviderPool
