@@ -22,7 +22,7 @@ class RootPath
      * @return RootPath
      */
     public function set(string $path): RootPath{
-        $this->rootPath = $path;
+        $this->rootPath = realpath($path);
         return $this;
     }
 
